@@ -2,6 +2,72 @@
     "quiz" : [
         {
             "category" : "Easy",
+            "question" : "How much food do each singaporeans waste everyday?",
+            "options" : [
+                "1.4 billion kg",
+                "2 bowls of rice",
+                "10kg of rice",
+                "744 million kg"
+            ],
+            "correctIndex" : 1
+        },
+        {
+            "category" : "Easy",
+            "question" : "What are the 3 Rs of sustainbility?",
+            "options" : [
+                "reduce, rebuild, regain",
+                "reuse, reduce, regain",
+                "reduce, reuse, recycle",
+                "rebuild, recycle, rebuild"
+            ],
+            "correctIndex" : 2
+        },
+        {
+            "category" : "Easy",
+            "question" : "how long does it take for honey to expire?",
+            "options" : [
+                "6 months",
+                "1 year",
+                "10 years",
+                "never"
+            ],
+            "correctIndex" : 3
+        },
+        {
+            "category" : "Easy",
+            "question" : "what does NEA stand for?",
+            "options" : [
+                " National Environment Agency ",
+                "North East Association",
+                "Natural Enironment Adaptation ",
+                "Nature Earth Association"
+            ],
+            "correctIndex" : 0
+        },
+        {
+            "category" : "Easy",
+            "question" : "",
+            "options" : [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correctIndex" : 0
+        },{
+            "category" : "Easy",
+            "question" : "",
+            "options" : [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correctIndex" : 0
+        },
+        
+        {
+            "category" : "Medium",
             "question" : "",
             "options" : [
                 "",
@@ -12,18 +78,7 @@
             "correctIndex" : 0
         },
         {
-            "category" : "medium",
-            "question" : "",
-            "options" : [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "correctIndex" : 0
-        },
-        {
-            "category" : "hard",
+            "category" : "Hard",
             "question" : "",
             "options" : [
                 "",
