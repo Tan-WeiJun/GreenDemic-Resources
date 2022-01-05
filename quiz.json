@@ -1,7 +1,7 @@
 {
     "quiz" : [
         {
-            "category" : "",
+            "category" : "Easy",
             "question" : "",
             "options" : [
                 "",
@@ -12,7 +12,7 @@
             "correctIndex" : 0
         },
         {
-            "category" : "",
+            "category" : "medium",
             "question" : "",
             "options" : [
                 "",
@@ -21,7 +21,18 @@
                 ""
             ],
             "correctIndex" : 0
-        }
+        },
+        {
+            "category" : "hard",
+            "question" : "",
+            "options" : [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correctIndex" : 0
+        },
     ]
 }
 
