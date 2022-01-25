@@ -54,28 +54,73 @@
                 "air water food"
             ],
             "correctIndex" : 3
-        },{
+        },
+        {
             "category" : "Easy",
-            "question" : "",
+            "question" : "Which of the following is false about food sustainability?",
             "options" : [
-                "",
-                "",
+                "Choose organic and local foods that are in season",
+                "Reduce your food waste by planning meals ahead of time",
+                "Compost your food waste when possible ",
+                "Consume food that are high on the food chain"
+            ],
+            "correctIndex" : 3
+        },
+        
+        {
+            "category" : "Medium",
+            "question" : "Local grown tomatoes do less harm to the environment compared to imported tomatoes",
+            "options" : [
+                "True",
+                "False",
                 "",
                 ""
             ],
             "correctIndex" : 0
         },
-        
         {
             "category" : "Medium",
-            "question" : "",
+            "question" : "How much of the world’s food is never eaten and thrown away? ",
             "options" : [
-                "",
-                "",
+                "10%",
+                "15%",
+                "20%",
+                "25%"
+            ],
+            "correctIndex" : 3
+        },
+        {
+            "category" : "Medium",
+            "question" : "How much water does it take to make a cup of coffee(125ml)",
+            "options" : [
+                "130 ml",
+                "1.3 L",
+                "13 L",
+                "130 L"
+            ],
+            "correctIndex" : 3
+        },
+         {
+            "category" : "Medium",
+            "question" : "Of the estimated 1 billion tons of food that goes to waste every year, much of it is perfectly edible and nutritious?",
+            "options" : [
+                "True",
+                "False",
                 "",
                 ""
             ],
             "correctIndex" : 0
+        },
+        {
+            "category" : "Medium",
+            "question" : "Upcycled food is all about elevating food to its...",
+            "options" : [
+                "Least expensive use",
+                "Most expensive use",
+                "Highest % Best use",
+                "Most popular use"
+            ],
+            "correctIndex" : 2
         },
         {
             "category" : "Hard",
@@ -98,6 +143,28 @@
                 "the food pantry"
             ],
             "correctIndex" : 0
+        },
+         {
+            "category" : "hard",
+            "question" : "Which food types produces the least carbon foodprint?",
+            "options" : [
+                "dairy produce",
+                "fruits & vegetables",
+                "nuts & legume",
+                "oil"
+            ],
+            "correctIndex" : 2
+        },
+        {
+            "category" : "hard",
+            "question" : "How much  greenhouse gas emission, in terms of Kg, does it take to produce one kg of beef?",
+            "options" : [
+                "3kg",
+                "6kg",
+                "60kg",
+                "30kg"
+            ],
+            "correctIndex" : 2
         },
     ]
 }
