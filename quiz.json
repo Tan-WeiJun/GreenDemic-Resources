@@ -46,14 +46,14 @@
         },
         {
             "category" : "Easy",
-            "question" : "",
+            "question" : "what are the 3 most important elements of our life?",
             "options" : [
-                "",
-                "",
-                "",
-                ""
+                "air shelter food",
+                "air water shelter",
+                "food clothes water",
+                "air water food"
             ],
-            "correctIndex" : 0
+            "correctIndex" : 3
         },{
             "category" : "Easy",
             "question" : "",
@@ -79,12 +79,23 @@
         },
         {
             "category" : "Hard",
-            "question" : "",
+            "question" : "which of the following home products cannot be used as fertilizers?",
             "options" : [
-                "",
-                "",
-                "",
-                ""
+                "coffee grounds",
+                "banana peels",
+                "chicken skin",
+                "egg shells"
+            ],
+            "correctIndex" : 0
+        },
+                {
+            "category" : "hard",
+            "question" : "which of the following is not a food donation drive in singapore?",
+            "options" : [
+                "daily bread food bank",
+                "the food bank singapore",
+                "free food for all",
+                "the food pantry"
             ],
             "correctIndex" : 0
         },
